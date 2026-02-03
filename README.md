@@ -3,7 +3,9 @@ Don't rely on Steam Cloud to save your cities in Simcity 3000 Unlimited on Steam
 
 ## Requirements
 -Python 3.6+
+
 -Simcity 3000
+
 -A safe location to backup you cities
 
 Ensure which version of Python you are running with:
